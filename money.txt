@@ -1,8 +1,8 @@
 # Contrived example of a transaction log:
 
+Alexei pays John $100
 John pays Boris $100
 Boris pays Victor $100
 Victor pays Eugene $100
-Alexei pays John $100     # out of order!
 Eugene pays Sam $100
 Sam pays Alexei $100
